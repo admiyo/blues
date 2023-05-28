@@ -75,7 +75,7 @@
           <top-system-distance>170.00</top-system-distance>
           </system-layout>
         <staff-layout number="2">
-          <staff-distance>43.67</staff-distance>
+          <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
       <attributes>
@@ -112,7 +112,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="83.49" default-y="-108.67">
+      <note default-x="83.49" default-y="-130.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -123,7 +123,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note default-x="133.63" default-y="-98.67">
+      <note default-x="133.63" default-y="-120.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -134,7 +134,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="183.76" default-y="-88.67">
+      <note default-x="183.76" default-y="-110.00">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -145,7 +145,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="233.90" default-y="-83.67">
+      <note default-x="233.90" default-y="-105.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -173,7 +173,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="19.32" default-y="-78.67">
+      <note default-x="19.32" default-y="-100.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -186,7 +186,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="69.46" default-y="-83.67">
+      <note default-x="69.46" default-y="-105.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -197,7 +197,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="119.60" default-y="-88.67">
+      <note default-x="119.60" default-y="-110.00">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -208,7 +208,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="169.73" default-y="-98.67">
+      <note default-x="169.73" default-y="-120.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -236,7 +236,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="15.50" default-y="-93.67">
+      <note default-x="15.50" default-y="-115.00">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -247,7 +247,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="70.53" default-y="-83.67">
+      <note default-x="70.53" default-y="-105.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -258,7 +258,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="125.57" default-y="-73.67">
+      <note default-x="125.57" default-y="-95.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -269,7 +269,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="180.60" default-y="-63.67">
+      <note default-x="180.60" default-y="-85.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -299,7 +299,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="15.50" default-y="-108.67">
+      <note default-x="15.50" default-y="-130.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -310,7 +310,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note default-x="65.64" default-y="-98.67">
+      <note default-x="65.64" default-y="-120.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -321,7 +321,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="115.78" default-y="-88.67">
+      <note default-x="115.78" default-y="-110.00">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -332,7 +332,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="165.91" default-y="-98.67">
+      <note default-x="165.91" default-y="-120.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -351,10 +351,10 @@
             <left-margin>15.90</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>108.73</system-distance>
+          <system-distance>259.17</system-distance>
           </system-layout>
         <staff-layout number="2">
-          <staff-distance>43.67</staff-distance>
+          <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
       <harmony print-frame="no">
@@ -372,7 +372,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="61.36" default-y="-93.67">
+      <note default-x="61.36" default-y="-115.00">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -383,7 +383,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="117.30" default-y="-83.67">
+      <note default-x="117.30" default-y="-105.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -394,7 +394,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="173.23" default-y="-73.67">
+      <note default-x="173.23" default-y="-95.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -405,7 +405,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="229.17" default-y="-68.67">
+      <note default-x="229.17" default-y="-90.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -433,7 +433,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="22.82" default-y="-63.67">
+      <note default-x="22.82" default-y="-85.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -446,7 +446,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="80.86" default-y="-68.67">
+      <note default-x="80.86" default-y="-90.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -457,7 +457,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="138.89" default-y="-73.67">
+      <note default-x="138.89" default-y="-95.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -468,7 +468,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="196.93" default-y="-83.67">
+      <note default-x="196.93" default-y="-105.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -496,7 +496,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="15.50" default-y="-108.67">
+      <note default-x="15.50" default-y="-130.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -507,7 +507,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note default-x="69.34" default-y="-98.67">
+      <note default-x="69.34" default-y="-120.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -518,7 +518,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="123.18" default-y="-88.67">
+      <note default-x="123.18" default-y="-110.00">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -529,7 +529,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="177.01" default-y="-83.67">
+      <note default-x="177.01" default-y="-105.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -557,7 +557,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="19.32" default-y="-78.67">
+      <note default-x="19.32" default-y="-100.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -570,7 +570,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="73.16" default-y="-83.67">
+      <note default-x="73.16" default-y="-105.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -581,7 +581,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="126.99" default-y="-88.67">
+      <note default-x="126.99" default-y="-110.00">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -592,7 +592,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="180.83" default-y="-98.67">
+      <note default-x="180.83" default-y="-120.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -604,17 +604,17 @@
         <staff>2</staff>
         </note>
       </measure>
-    <measure number="9" width="289.56">
+    <measure number="9" width="287.34">
       <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>15.90</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>108.73</system-distance>
+          <system-distance>259.17</system-distance>
           </system-layout>
         <staff-layout number="2">
-          <staff-distance>43.49</staff-distance>
+          <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
       <harmony print-frame="no">
@@ -632,7 +632,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="61.36" default-y="-88.49">
+      <note default-x="61.36" default-y="-110.00">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -643,7 +643,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="117.96" default-y="-78.49">
+      <note default-x="117.41" default-y="-100.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -654,7 +654,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="174.56" default-y="-68.49">
+      <note default-x="173.45" default-y="-90.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -665,7 +665,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="231.16" default-y="-78.49">
+      <note default-x="229.50" default-y="-100.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -677,7 +677,7 @@
         <staff>2</staff>
         </note>
       </measure>
-    <measure number="10" width="235.30">
+    <measure number="10" width="233.08">
       <harmony print-frame="no">
         <root>
           <root-step>F</root-step>
@@ -693,7 +693,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="15.50" default-y="-93.49">
+      <note default-x="15.50" default-y="-115.00">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -704,7 +704,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="70.00" default-y="-83.49">
+      <note default-x="69.45" default-y="-105.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -715,7 +715,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="124.50" default-y="-73.49">
+      <note default-x="123.39" default-y="-95.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -726,7 +726,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="179.00" default-y="-83.49">
+      <note default-x="177.34" default-y="-105.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -738,7 +738,7 @@
         <staff>2</staff>
         </note>
       </measure>
-    <measure number="11" width="252.65">
+    <measure number="11" width="250.44">
       <harmony print-frame="no">
         <root>
           <root-step>C</root-step>
@@ -754,7 +754,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="15.50" default-y="-108.49">
+      <note default-x="15.50" default-y="-130.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -765,7 +765,7 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
-      <note default-x="74.34" default-y="-98.49">
+      <note default-x="73.78" default-y="-120.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -776,7 +776,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="133.17" default-y="-93.49">
+      <note default-x="132.07" default-y="-115.00">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -787,7 +787,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="192.01" default-y="-93.49">
+      <note default-x="190.35" default-y="-115.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -801,7 +801,7 @@
         <staff>2</staff>
         </note>
       </measure>
-    <measure number="12" width="235.30">
+    <measure number="12" width="241.93">
       <harmony print-frame="no">
         <root>
           <root-step>F</root-step>
@@ -817,7 +817,7 @@
       <backup>
         <duration>4</duration>
         </backup>
-      <note default-x="15.50" default-y="-88.49">
+      <note default-x="15.50" default-y="-110.00">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -828,7 +828,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="70.00" default-y="-93.49">
+      <note default-x="69.45" default-y="-115.00">
         <pitch>
           <step>F</step>
           <octave>3</octave>
@@ -839,7 +839,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="124.50" default-y="-98.49">
+      <note default-x="123.39" default-y="-120.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -850,7 +850,7 @@
         <stem>down</stem>
         <staff>2</staff>
         </note>
-      <note default-x="179.00" default-y="-103.49">
+      <note default-x="177.34" default-y="-125.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -859,406 +859,6 @@
         <voice>5</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="13" width="284.07">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>15.90</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>108.73</system-distance>
-          </system-layout>
-        <staff-layout number="2">
-          <staff-distance>43.49</staff-distance>
-          </staff-layout>
-        </print>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="14" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="15" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="16" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="17" width="284.07">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>15.90</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>108.73</system-distance>
-          </system-layout>
-        <staff-layout number="2">
-          <staff-distance>43.49</staff-distance>
-          </staff-layout>
-        </print>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="18" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="19" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="20" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="21" width="284.07">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>15.90</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>108.73</system-distance>
-          </system-layout>
-        <staff-layout number="2">
-          <staff-distance>43.49</staff-distance>
-          </staff-layout>
-        </print>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="22" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="23" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="24" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="25" width="284.07">
-      <print new-page="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>15.90</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <top-system-distance>70.00</top-system-distance>
-          </system-layout>
-        <staff-layout number="2">
-          <staff-distance>65.00</staff-distance>
-          </staff-layout>
-        </print>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="26" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="27" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="28" width="242.91">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="29" width="167.03">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>15.90</left-margin>
-            <right-margin>466.49</right-margin>
-            </system-margins>
-          <system-distance>237.50</system-distance>
-          </system-layout>
-        <staff-layout number="2">
-          <staff-distance>65.00</staff-distance>
-          </staff-layout>
-        </print>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="30" width="125.88">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="31" width="125.88">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
-        <staff>2</staff>
-        </note>
-      </measure>
-    <measure number="32" width="127.52">
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>1</voice>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note>
-        <rest measure="yes"/>
-        <duration>4</duration>
-        <voice>5</voice>
         <staff>2</staff>
         </note>
       <barline location="right">
